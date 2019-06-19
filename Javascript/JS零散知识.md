@@ -42,5 +42,6 @@ var getGlobal = function () {
   throw new Error('unable to locate global object');
 };
 ```
+this is a joke
 ### 参考链接
 [ECMAScript 6入门](https://es6.ruanyifeng.com/#docs/let)
