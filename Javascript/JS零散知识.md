@@ -43,5 +43,6 @@ var getGlobal = function () {
 };
 ```
 this is a joke
+bad day
 ### 参考链接
 [ECMAScript 6入门](https://es6.ruanyifeng.com/#docs/let)
