@@ -20,3 +20,4 @@ result.then(data=>{
     console.log(err)// catch能接收readFilePromise中触发的reject，还能接收reject中的参数
 })
 
+// happy ending
