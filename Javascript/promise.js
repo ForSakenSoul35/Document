@@ -9,7 +9,7 @@ const readFilePromise= function(FileName){
         })
     })
 }
-const fuuuFileName = path.resolve(_dirname,'../data2.json')
+const fullFileName = path.resolve(_dirname,'../data2.json')
 const result = readFilePromise(fullFileName)
 result.then(data=>{
     console.log(data)
